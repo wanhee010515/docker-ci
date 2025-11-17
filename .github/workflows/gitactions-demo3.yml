@@ -1,4 +1,4 @@
-nameL GitActions-Demo3
+name: GitActions-Demo3
 on:
   schedule:
     - cron: '50 12 * * *'
